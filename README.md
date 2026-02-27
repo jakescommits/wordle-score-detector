@@ -1,5 +1,5 @@
 # Wordle Score Detector
-*V1.1.0*
+*V1.1.0 - Last Updated 27/02/2026*
 
 #
 
