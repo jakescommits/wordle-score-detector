@@ -5,5 +5,3 @@
 **Package Release:** 27/02/2026
 
 **Version:** V1.1.0
-
-**Changelog From Previous Package:**
